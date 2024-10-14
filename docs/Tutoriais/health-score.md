@@ -25,7 +25,7 @@ Primeiramente, faça login na sua conta do G Client.
 
 ### 2. Navege até a Seção de Health Score
 
-Na página principal, clique na aba ["Health Score"](https://client.primorgroup.com.br/health-score) localizada no menu lateral. Isso o levará para a página onde você pode visualizar e calcular os Health Scores dos seus clientes.
+Na página principal, clique na aba [`Health Score`](https://client.primorgroup.com.br/health-score) localizada no menu lateral. Isso o levará para a página onde você pode visualizar e calcular os Health Scores dos seus clientes.
 
 ### 3. Configuração dos Indicadores
 
