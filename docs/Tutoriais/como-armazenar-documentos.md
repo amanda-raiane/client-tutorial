@@ -84,6 +84,6 @@ Você também poderá: Mover, Editar ou Excluir uma pasta.
 
 Após clicar em **_Documentos_**
 
-![print exmplos mostrados acima](./../../static/img/como-armazenar-documentos/example-07.png)
+![print exmplos mostrados acima](./../../static/img/como-armazenar-documentos/example-08.png)
 
 ✅ Esse tutorial deve ajudar os usuários a cadastrar e visualizar os documentos dos seus clientes de forma simples e eficiente. Se precisar de mais alguma coisa, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
