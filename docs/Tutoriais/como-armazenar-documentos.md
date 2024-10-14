@@ -53,7 +53,7 @@ hide_table_of_contents: true
 
 > ⚠️ Ao excluir um documento não será possível recuperar, a exclusão é permanente.
 
-![print exmplos mostrados acima](./../../static/img/como-armazenar-documentos/example-04.png)
+![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-04.png)
 
 6. Criar pastas
 
@@ -66,13 +66,13 @@ hide_table_of_contents: true
 
    Por fim, após preencher os campos basta clicar no botão `Cadastrar`
 
-![print exmplos mostrados acima](./../../static/img/como-armazenar-documentos/example-05.png)
+![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-05.png)
 
 Após o cadastro com exito, estando com o cliente selecionado você já verá a nova pasta criada.
 
 Você também poderá: Mover, Editar ou Excluir uma pasta.
 
-![print exmplos mostrados acima](./../../static/img/como-armazenar-documentos/example-06.png)
+![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-06.png)
 
 7. Página do cliente
 
@@ -80,10 +80,10 @@ Você também poderá: Mover, Editar ou Excluir uma pasta.
 
    Basta clicar na opção **_Documentos_**
 
-![print exmplos mostrados acima](./../../static/img/como-armazenar-documentos/example-07.png)
+![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-07.png)
 
 Após clicar em **_Documentos_**
 
-![print exmplos mostrados acima](./../../static/img/como-armazenar-documentos/example-08.png)
+![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-08.png)
 
 ✅ Esse tutorial deve ajudar os usuários a cadastrar e visualizar os documentos dos seus clientes de forma simples e eficiente. Se precisar de mais alguma coisa, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
