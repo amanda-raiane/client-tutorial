@@ -5,30 +5,23 @@ import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
   title: "G Client",
-  tagline: "Sistema de gerenciamento de clientes para escritórios de contabilidade.",
+  tagline:
+    "Sistema de gerenciamento de clientes para escritórios de contabilidade.",
   favicon: "img/favicon.ico",
   plugins: [tailwindPlugin],
 
-  // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: "https://ajuda.gclient.com.br/",
   baseUrl: "/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "amanda-raiane",
+  projectName: "client-tutorial",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "pt-br",
+    locales: ["pt-br"],
   },
 
   presets: [
@@ -37,10 +30,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -48,11 +37,7 @@ const config: Config = {
             type: ["rss", "atom"],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          // Useful options to enforce blogging best practices
+
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
@@ -65,7 +50,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: "img/g-client-social-card.jpg",
     navbar: {
       title: "Home",
@@ -80,7 +64,6 @@ const config: Config = {
           position: "left",
           label: "Central de tutoriais",
         },
-        /* { to: "/blog", label: "Blog", position: "left" }, */
         {
           href: "https://client.primorgroup.com.br",
           label: "Entrar",
@@ -92,41 +75,57 @@ const config: Config = {
       style: "light",
       links: [
         {
-          title: "Docs",
+          title: "Sobre",
           items: [
             {
-              label: "Tutorial",
+              label: "Central de ajuda",
               to: "/docs/intro",
             },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Solicitação de recursos",
+              href: "https://g-client.canny.io/",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Tutorial em vídeo",
+              href: "https://www.youtube.com/watch?v=GAtQ_wZCCH8&list=PLoEki3TCHOP8PfyUFC96R9V46qp3KyuVn",
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              label: "Novidades",
+              href: "https://versions.gclient.com.br/",
             },
           ],
         },
         {
-          title: "More",
+          title: "Contato",
           items: [
             {
-              label: "Blog",
-              to: "/blog",
+              label: "Instagram",
+              href: "https://www.instagram.com/codificadev",
             },
             {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              label: "Youtube",
+              href: "https://www.youtube.com/@codificadev",
+            },
+            {
+              label: "Whatsapp",
+              href: "https://api.whatsapp.com/send?phone=5544997046559&text=Ol%C3%A1%20estava%20no%20site%20do%20G%20Client%20e%20quero%20agendar%20uma%20apresenta%C3%A7%C3%A3o%20gratuita",
+            },
+          ],
+        },
+        {
+          title: "G Client",
+          items: [
+            {
+              label: "Recursos",
+              href: "https://gclient.com.br/#recursos",
+            },
+            {
+              label: "Benefícios",
+              href: "https://gclient.com.br/#beneficios",
+            },
+            {
+              label: "Planos",
+              href: "https://gclient.com.br/#planos",
             },
           ],
         },
