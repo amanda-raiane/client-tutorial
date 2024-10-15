@@ -12,7 +12,7 @@ Bem-vindo ao tutorial do G Client! Neste guia, vamos explicar como você pode co
 
 Usuários com a permissão **Controle das configurações de Acesso no Menu** poderão acessar a página de configuração do acesso ao menu, e editar quem pode acessar cada item.
 
-![exemplo descrito acima](../../static/img/user-acess-control/example-01.png)
+![exemplo descrito acima](./img/user-acess-control/example-01.png)
 
 ## Passo a Passo para editar o Acesso aos Itens do Menu
 
@@ -24,19 +24,19 @@ Primeiro, faça login na sua conta do G Client.
 
 Navegue até o final da barra lateral e acesse a página de configurações, simbolizada pelo ícone de uma engrenagem.
 
-![exemplo descrito acima](../../static/img/user-acess-control/example-02.png)
+![exemplo descrito acima](./img/user-acess-control/example-02.png)
 
 ### 3. Acesse a página de Controle de Acesso ao Menu
 
 Na página de configurações, selecione a opção **Controle de acesso no menu** para acessar a página de configuração do controle de acesso no menu.
 
-![exemplo descrito acima](../../static/img/user-acess-control/example-03.png)
+![exemplo descrito acima](./img/user-acess-control/example-03.png)
 
 ### 4. Identifique os itens que você deseja configurar e selecione uma das opções
 
 Você pode optar entre deixar o item disponível para todos os usuários e departamentos, ou selecionar departamentos e/ou usuários específicos.
 
-![exemplo descrito acima](../../static/img/user-acess-control/example-04.png)
+![exemplo descrito acima](./img/user-acess-control/example-04.png)
 
 ### 5. Selecione os usuários e/ou departamentos que deseja permitir
 
@@ -44,7 +44,7 @@ Caso você queira que apenas alguns departamentos e/ou usuários possam acessar 
 
 No modal de departamentos você pode adicionar usuários para garantir acesso ao clicar no botão `Adicionar usuário`
 
-![exemplo descrito acima](../../static/img/user-acess-control/example-05.png)
+![exemplo descrito acima](./img/user-acess-control/example-05.png)
 
 ### 6. Pressionar confirmar após selecionar os usuários e/ou departamentos
 

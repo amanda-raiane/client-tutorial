@@ -16,13 +16,13 @@ Clique na aba [Configurações](https://client.primorgroup.com.br/configuracao) 
 
 ### 3. Clique em Aviso prévio
 
-![exemplo descrito acima](../../static/img/notice/example-01.png)
+![exemplo descrito acima](./img/notice/example-01.png)
 
 ### 4. Insira a quantidade de dias para aviso prévio
 
 Basta clicar no botão `+` present na tela e inserir a quantidade de dias para o aviso prévio, por fim clicar em salvar.
 
-![exemplo descrito acima](../../static/img/notice/example-02.png)
+![exemplo descrito acima](./img/notice/example-02.png)
 
 ### 5. Visualizar contagem dos dias
 
@@ -30,10 +30,10 @@ Na lista de clientes assim como na tela de informações de um cliente, você po
 
 Lista de clientes:
 
-![exemplo descrito acima](../../static/img/notice/example-03.png)
+![exemplo descrito acima](./img/notice/example-03.png)
 
 Tela de informações do cliente:
 
-![exemplo descrito acima](../../static/img/notice/example-04.png)
+![exemplo descrito acima](./img/notice/example-04.png)
 
 ✅ Esse tutorial deve ajudar os usuários a configurar o aviso prévio para seus clientes de forma simples e eficiente. Se precisar de mais alguma coisa, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Ol%C3%A1,%20estava%20lendo%20um%20tutorial%20do%20Client%20e%20quero%20saber%20mais%20sobre%20seus%20servi%C3%A7os.)!

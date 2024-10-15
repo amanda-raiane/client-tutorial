@@ -18,7 +18,7 @@ Verifique se você possui as permissões necessárias para lidar com os document
 
 Clique na aba 📁Documentos localizada no menu lateral. Isso o levará para a página onde você pode visualizar a galeria de documentos.
 
-![ilustação de onde encontrar a aba Documentos](./../../static/img/como-armazenar-documentos/example-01.png)
+![ilustação de onde encontrar a aba Documentos](./img/como-armazenar-documentos/example-01.png)
 
 ### 3. Na galeria de documentos
 
@@ -32,13 +32,13 @@ Escolhendo a opção **Documento**, será aberto um modal para adicionar as info
 
 Por fim, após preencher os campos basta clicar no botão **Cadastrar**
 
-![print do modal adicionar documentos](./../../static/img/como-armazenar-documentos/example-02.png)
+![print do modal adicionar documentos](./img/como-armazenar-documentos/example-02.png)
 
 ### 4. Selecione o cliente
 
 Para visualizar o documento que você acabou de inserir, basta selecionar o cliente.
 
-![print guia de seleção de clientes](./../../static/img/como-armazenar-documentos/example-03.png)
+![print guia de seleção de clientes](./img/como-armazenar-documentos/example-03.png)
 
 ### 5. Botões de ação no documento
 
@@ -53,7 +53,7 @@ Cada documento irá conter os seguintes botões:
 
 > ⚠️ Ao excluir um documento não será possível recuperar, a exclusão é permanente.
 
-![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-04.png)
+![print exemplos mostrados acima](./img/como-armazenar-documentos/example-04.png)
 
 ### 6. Criar pastas
 
@@ -66,13 +66,13 @@ Após será aberto um modal para adicionar as informações necessárias:
 
 Por fim, após preencher os campos basta clicar no botão `Cadastrar`
 
-![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-05.png)
+![print exemplos mostrados acima](./img/como-armazenar-documentos/example-05.png)
 
 Após o cadastro com exito, estando com o cliente selecionado você já verá a nova pasta criada.
 
 Você também poderá: Mover, Editar ou Excluir uma pasta.
 
-![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-06.png)
+![print exemplos mostrados acima](./img/como-armazenar-documentos/example-06.png)
 
 ### 7. Página do cliente
 
@@ -80,10 +80,10 @@ Também é possível cadastrar e visualizar os documentos e pastas dentro da pá
 
 Basta clicar na opção **_Documentos_**
 
-![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-07.png)
+![print exemplos mostrados acima](./img/como-armazenar-documentos/example-07.png)
 
 Após clicar em **_Documentos_**
 
-![print exemplos mostrados acima](./../../static/img/como-armazenar-documentos/example-08.png)
+![print exemplos mostrados acima](./img/como-armazenar-documentos/example-08.png)
 
 ✅ Esse tutorial deve ajudar os usuários a cadastrar e visualizar os documentos dos seus clientes de forma simples e eficiente. Se precisar de mais alguma coisa, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!

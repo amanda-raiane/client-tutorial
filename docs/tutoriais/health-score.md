@@ -33,7 +33,7 @@ Para calcular o Health Score, precisamos configurar os indicadores que serão ut
 
 Clique no botão `Indicadores` e na página seguinte clique no botão `Habilitar indicadores` e selecione osfatores que deseja incluir no cálculo, após selecionar clique em `Concluir`:
 
-![exemplo descrito acima](../../static/img/health-score/example-01.png)
+![exemplo descrito acima](./img/health-score/example-01.png)
 
 ### 4. Defina Pontos para Cada Indicador
 
@@ -43,7 +43,7 @@ Ajuste os pontos conforme necessário e clique em `Concluir`.
 
 **Para habilitar um indicador, basta clicar no ícone de lápis presente na lista:**
 
-![exemplo descrito acima](../../static/img/health-score/example-02.png)
+![exemplo descrito acima](./img/health-score/example-02.png)
 
 **Após, um modal será aberto para configurar o indicador:**
 
@@ -51,7 +51,7 @@ Ajuste os pontos conforme necessário e clique em `Concluir`.
 
 **B.** Define a quantidade de pontos para o indicador
 
-![exemplo descrito acima](../../static/img/health-score/example-03.png)
+![exemplo descrito acima](./img/health-score/example-03.png)
 
 ### 5. Cálculo do Health Score
 
@@ -65,11 +65,11 @@ Após calcular, você verá uma lista dos seus clientes com seus respectivos Hea
 
 **Lista** 📃
 
-![imagem de como fica a lista](../../static/img/health-score/example-04.png)
+![imagem de como fica a lista](./img/health-score/example-04.png)
 
 **Dashboard** 📊
 
-![imagem de como fica o dashboard](../../static/img/health-score/example-05.png)
+![imagem de como fica o dashboard](./img/health-score/example-05.png)
 
 ### 7. Ações de Follow-Up
 
