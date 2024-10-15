@@ -1,7 +1,6 @@
 ---
 title: O que é Health Score e como calcular?
 description: Tudo sobre Health Score
-hide_table_of_contents: true
 ---
 
 ## Introdução

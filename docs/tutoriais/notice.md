@@ -1,7 +1,6 @@
 ---
 title: Aviso prévio, como definir os dias?
 description: Como funciona o aviso prévio no G Client
-hide_table_of_contents: true
 ---
 
 ## Passo a Passo para definir os dias do aviso prévio

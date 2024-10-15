@@ -1,7 +1,6 @@
 ---
 title: Como controlar o acesso de usuários à páginas e itens do menu
 description: Tudo sobre como acessar os usuários
-hide_table_of_contents: true
 ---
 
 ## Introdução

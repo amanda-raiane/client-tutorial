@@ -1,7 +1,6 @@
 ---
 title: Como armazenar documentos?
 description: Passo a passo para armazenar documentos dos seus clientes.
-hide_table_of_contents: true
 ---
 
 # 🗃️ Como armazenar documentos?
