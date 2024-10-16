@@ -1,9 +1,7 @@
 ---
-title: Como criar e enviar pesquisas NPS
-description: Tudo sobre as pesquisas NPS
+title: Como criar pesquisa NPS
+description: Passo a passo de como criar uma pesquisa NPS no G Client.
 ---
-
-import VideoEmbed from "../../src/components/VideoEmbed";
 
 ## Como criar pesquisas NPS
 
@@ -43,27 +41,3 @@ Dentro do segmentos temos três campos:
 > ℹ️ **Importante:** Caso queira que a campanha criada seja entregue a todos os seu clientes cadastrados na base, não é necessário preencher nenhum dos filtro de segmentos.
 
 Ao terminar de preencher os campos e segmentos, basta clicar no botão <span class="text-blue-500 font-bold">Cadastrar</span> para finalizar o cadastro da campanha.
-
-## Como enviar pesquisa NPS
-
-### 1. Acesse o formulário de envio de pesquisa
-
-Ainda na página de NPS, é possível visualizar a pesquisas criadas, clique botão correspondente ao título **Enviar**.
-
-![exemplo descrito acima](./img/nps/example-04.png)
-
-### 2. Preview do e-mail e clientes
-
-Ao acessar o formulário de envio de pesquisa, é possível visualizar o preview do e-mail que será entregue aos clientes e também a quantidade e os clientes que receberão a campanha. Para efetuar o envio da campanha basta clicar no botão `Enviar`.
-
-![exemplo descrito acima](./img/nps/example-05.png)
-
-> ℹ️ **Importante:** A pesquisa NPS é entregue para o clientes atráves o email de contato do cliente cadastrado dentro do G Client, logo, é importante ter esse campo preenchido para garantir que o email da pesquisa seja entregue para o seus clientes.
-
-## Conclusão
-
-Esse tutorial deve orientar os usuário a criar e efetuar o envio das campanhas NPS.
-
-Temos também o tutorial de pesquisas NPS em vídeo, caso tenha interesse em assistir, acesse o link abaixo:
-
-<VideoEmbed videoUrl="https://www.youtube.com/watch?v=YhoVOl7JRyc" />
