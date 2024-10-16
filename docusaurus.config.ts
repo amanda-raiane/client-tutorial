@@ -1,7 +1,8 @@
-import { themes as prismThemes } from "prism-react-renderer";
+import { themes as prismThemes, themes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 import tailwindPlugin from "./plugins/tailwind-config.cjs";
+import "dotenv/config";
 
 const config: Config = {
   title: "G Client",
@@ -31,25 +32,17 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts",
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ["rss", "atom"],
-            xslt: true,
-          },
-
-          onInlineTags: "warn",
-          onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
-        },
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
   ],
+  // themes: ['@docusaurus/theme-search-algolia']
 
   themeConfig: {
+    themes: ["@docusaurus/theme-search-algolia"],
     image: "img/g-client-social-card.jpg",
     navbar: {
       title: "Home",
@@ -135,6 +128,11 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    algolia: {
+      appId: process.env.APP_ID,
+      apiKey: process.env.API_KEY,
+      indexName: process.env.INDEX_NAME,
     },
   } satisfies Preset.ThemeConfig,
 };
