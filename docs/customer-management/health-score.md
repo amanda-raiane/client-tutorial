@@ -11,7 +11,9 @@ Bem-vindo ao tutorial do G Client! Neste guia, vamos explicar o que é o Health 
 
 > O Health Score é uma métrica que ajuda a avaliar a saúde do relacionamento entre sua empresa e seus clientes. Ele pode incluir vários fatores, como a frequência de uso do seu produto, o nível de satisfação, o engajamento, e outros indicadores importantes. Um Health Score alto indica que seus clientes estão satisfeitos e engajados, enquanto um score baixo pode ser um sinal de que há problemas que precisam ser resolvidos.
 
-<span class="text-blue-500 font-bold">Diferença do Health Score para o Net Promoter Score (NPS)</span>
+<span class="text-blue-500 font-bold">
+  Diferença do Health Score para o Net Promoter Score (NPS)
+</span>
 
 O NPS mede a lealdade e a satisfação com base na probabilidade de recomendação. O Health Score avalia a saúde geral do cliente com base em múltiplos indicadores.
 **Método de Cálculo:** O NPS é calculado a partir de uma única pergunta, enquanto o Health Score combina vários indicadores.
