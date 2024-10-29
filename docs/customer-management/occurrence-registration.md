@@ -15,7 +15,7 @@ Primeiramente, faça o login na sua conta do G Client
 
 ### 2. Navege até a Seção Cadastros
 
-Na página principal, cliqe na aba `Cadastros` localizaoo no menu lateral. Com isso aparecerá algumas opções clique na opção `Ocorrência`.
+Na página principal, cliqe na aba `Cadastros` localizado no menu lateral. Com isso aparecerá algumas opções clique na opção `Ocorrência`.
 
 ![exemplo descrio acima](./img/occurence-registration/example-01.png)
 
@@ -53,6 +53,42 @@ Na seção de cadastro de ocorrência, você deverá preencher os seguintes camp
 
 ### 4. Finalize o Cadastro
 
-Após preencher todos os campos, finalize o cadastro clicando no botão Cadastrar.
+Após preencher todos os campos, finalize o cadastro clicando no botão `Cadastrar`.
+
+---
+
+Além disso é possivel cadastrar um ocorrência direto no cliente.
+
+## Passo a Passo para Cadastrar Ocorrência direto no Cliente
+
+### 1. Acesse o G Client
+
+Primeiramente, faça o login na sua conta do G Client
+
+### 2. Navege até a seção de Clientes
+
+Na página principal, cliqe na aba `Clientes` localizado no menu lateral.
+
+![exemplo descrio acima](./img/occurence-registration/example-08.png)
+
+### 3. Procure o cliente você deseja cadastrar uma ocorrência.
+
+Navege dentro da aba de clientes até achar o cliente que deseja cadastrar a ocorrência e clique nele.
+
+![exemplo descrio acima](./img/occurence-registration/example-09.png)
+
+### 4. Cadastre a ocorrência
+
+Descendo um pouco a página é possivel encontrar as ocorrências, clique no botão `Cadastrar +`, com isso aparecerá os campos para serem preenchidos.
+
+![exemplo descrio acima](./img/occurence-registration/example-10.png)
+
+![exemplo descrio acima](./img/occurence-registration/example-11.png)
+
+### 5. Finalize o cadastro
+
+Após preencher todos os campos, finalize o cadastro clicando no botão `Cadastrar`.
+
+---
 
 ✅ Com esse tutorial, esperamos que o processo de cadastro de ocorrências seja fácil e eficiente. Se precisar de mais ajuda, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
