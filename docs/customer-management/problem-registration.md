@@ -7,7 +7,7 @@ description: Passo a passo de como cadastrar um problema.
 
 Bem vindo ao tutorial do G Client! Neste guia, vamos explicar como é feito o cadastro de problemas.
 
-## Passo a Passo para Cadastrar Ocorrência
+## Passo a Passo para Cadastrar Problema
 
 ### 1. Acesse o G Client
 
@@ -59,7 +59,7 @@ Na seção de cadastro de problemas, você deverá preencher os seguintes campos
 
 **Data da solução**: data que foi solucionado o problema.
 
-![exemplo descrio acima](./img/problem-registration/example-09.png)
+![exemplo descrio acima](./img/problem-registration/example-09.png) 
 
 **Descrição da solução**: aqui você vai colocar a descrição da solução do problema.
 
@@ -75,7 +75,7 @@ Após preencher todos os campos, finalize o cadastro clicando no botão `Cadastr
 
 Além disso é possivel cadastrar um problema direto no cliente.
 
-## Passo a Passo para Cadastrar Ocorrência direto no Cliente
+## Passo a Passo para Cadastrar Problema direto no Cliente
 
 ### 1. Acesse o G Client
 
@@ -83,17 +83,17 @@ Primeiramente, faça o login na sua conta do G Client
 
 ### 2. Navege até a seção de Clientes
 
-Na página principal, cliqe na aba `Clientes` localizado no menu lateral.
+Na página principal, clique na aba `Clientes` localizado no menu lateral.
 
 ![exemplo descrio acima](./img/problem-registration/example-11.png)
 
-### 3. Procure o cliente você deseja cadastrar uma ocorrência.
+### 3. Procure o cliente você deseja cadastrar uma problema
 
-Navege dentro da aba de clientes até achar o cliente que deseja cadastrar a ocorrência e clique nele.
+Navege dentro da aba de clientes até achar o cliente que deseja cadastrar a problema e clique nele.
 
 ![exemplo descrio acima](./img/problem-registration/example-12.png)
 
-### 4. Cadastre a ocorrência
+### 4. Cadastre a problema
 
 Descendo um pouco a página é possivel encontrar as Problemas, clique no botão `Cadastrar +`, com isso aparecerá os campos para serem preenchidos.
 
@@ -107,4 +107,4 @@ Após preencher todos os campos, finalize o cadastro clicando no botão `Cadastr
 
 ---
 
-✅ Com esse tutorial, esperamos que o processo de cadastro de ocorrências seja fácil e eficiente. Se precisar de mais ajuda, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+✅ Com esse tutorial, esperamos que o processo de cadastro de problemas seja fácil e eficiente. Se precisar de mais ajuda, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
