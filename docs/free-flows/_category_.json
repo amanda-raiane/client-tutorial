@@ -1,0 +1,8 @@
+{
+  "label": "Fluxos Livres",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Tudo fluxos livres do G Client."
+  }
+}
