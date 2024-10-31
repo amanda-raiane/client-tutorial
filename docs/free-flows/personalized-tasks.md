@@ -11,7 +11,7 @@ Primeiramente, faça login na sua conta do G Client. E certifique-se de que voc�
 
 ### 2. Navegue até a Seção de FLUXOS LIVRES
 
-Após a [criação do quadro personalizado](https://ajuda.gclient.com.br/docs/free-flows/personalized-tables.md), clique na aba `Quadros` localizado no meu lateral. Depois selecione o quadro que você deseja criar as tarefas.
+Após a [criação do quadro personalizado](https://ajuda.gclient.com.br/docs/free-flows/personalized-tables.md), clique na aba `Quadros` localizado no menu lateral. Depois selecione o quadro que você deseja criar as tarefas.
 
 ![exemplo descrito acima](./img/personalized-tasks/example-01.png)
 
