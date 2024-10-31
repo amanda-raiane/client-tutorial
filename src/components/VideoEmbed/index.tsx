@@ -1,4 +1,4 @@
-import React from "react";
+import React, { DetailedHTMLProps, IframeHTMLAttributes } from "react";
 
 interface VideoProps {
   videoUrl: string;
@@ -16,16 +16,11 @@ const VideoEmbed: React.FC<VideoProps> = ({
       <iframe
         width={width}
         height={height}
-        src={videoUrl}
+        src={`https://www.youtube.com/embed/${videoUrl}`}
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        className="absolute top-0 left-0 w-full h-full"
         frameBorder="0"
-        allowFullScreen
-        style={{
-          position: "absolute",
-          top: 0,
-          left: 0,
-          width: "100%",
-          height: "100%",
-        }}
       />
     </div>
   );
