@@ -13,7 +13,7 @@ Verifique se você possui as permissões necessárias para lidar com os document
 
 ### 2. Navegue até a Seção de GESTÃO DE ARQUIVOS
 
-Clique na aba `Contratos` locallizada no menu lateral. Clique me **Meus contratos**.
+Clique na aba `Contratos` locallizada no menu lateral. Clique em **Meus contratos**.
 
 ![ilustação de onde encontrar a aba Documentos](./img/create-folder-adding-fiel/example-01.png)
 
@@ -51,5 +51,7 @@ Ao clicar no botão `...`: nas pastar você terá as seguintes opções:
 - `Excluir`: você poderá excluir um documento.
 
 ![exemplo descrito acima](./img/create-folder-adding-fiel/example-04.png)
+
+---
 
 ✅ Esse tutorial deve ajudar os usuários a cadastrar pastas e documentos dos seus clientes de forma simples e eficiente. Se precisar de mais alguma coisa, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
