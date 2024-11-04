@@ -15,7 +15,7 @@ Verifique se você possui as permissões necessárias para lidar com os document
 
 ### 2. Navegue até a Seção de GESTÃO DE ARQUIVOS
 
-Clique na aba 📁Documentos localizada no menu lateral. Isso o levará para a página onde você pode visualizar a galeria de documentos.
+Clique na aba `📁Documentos` localizada no menu lateral. Isso o levará para a página onde você pode visualizar a galeria de documentos.
 
 ![ilustação de onde encontrar a aba Documentos](./img/how-to-store-documents/example-01.png)
 
