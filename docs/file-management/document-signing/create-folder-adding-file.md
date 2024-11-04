@@ -9,13 +9,13 @@ description: Como criar pastas e adicionar documentos.
 
 Primeiramente, faça login na sua conta do G Client.
 
-Verifique se você possui as permissões necessárias para lidar com os documentos.
+Verifique se você possui as permissões necessárias para lidar com os **Contratos**.
 
 ### 2. Navegue até a Seção de GESTÃO DE ARQUIVOS
 
-Clique na aba `Contratos` locallizada no menu lateral. Clique em **Meus contratos**.
+Clique na aba `Contratos` localizada no menu lateral. Clique em **Meus contratos**.
 
-![ilustação de onde encontrar a aba Documentos](./img/create-folder-adding-fiel/example-01.png)
+![ilustração de onde encontrar a aba Documentos](./img/create-folder-adding-fiel/example-01.png)
 
 ### 3. Meus Contratos
 
@@ -27,25 +27,25 @@ Para finalizar a criação clique em **Cadastrar**.
 
 ### 4. Criar Contrato
 
-Clique no botão `Novo Contrato`, coloque o nome do documento e exporte o documento.
+Clique no botão `Novo Contrato`, coloque o nome do documento e importe o documento.
 
 Para finalizar a criação do contrato clique em **Cadastrar**.
 
-> ⚠️ Só poder ser exportados os seguintes formatos: PDF, DOC, DOCX.
+> ⚠️ Só podem ser importados os seguintes formatos: PDF, DOC, DOCX.
 
 ![exemplo descrito acima](./img/create-folder-adding-fiel/example-03.png)
 
 ### 5. Botões de ação no documento
 
-Ao clicar no botão `...` nas pastas você terá as seguintes opcões:
+Com a pasta criada, ao clicar no botão `...` nas pastas você terá as seguintes opcões:
 
+- `Renomear`: você poderá editar o nome da pasta.
+- `Excluir`: você poderá excluir uma pasta.
+
+Ao clicar no botão `...`: nos documentos você terá as seguintes opções:
+
+- `Solicitar assinatura`: você poderá encaminhar o documento para ser assinado. [(ver tutorial)](/docs/file-management/document-signing/signing-solicitation.md)
 - `Renomear`: você poderá editar o nome do documento.
-- `Excluir`: você poderá excluir um documento.
-
-Ao clicar no botão `...`: nas pastar você terá as seguintes opções:
-
-- `Solicitar assinatura`:
-- `Renomar`: você poderá editar o nome do documento.
 - `Duplicar`: você fará um cópia do arquivo.
 - `Download`: ao clicar neste botão o documento será salvo em seu dispositivo.
 - `Excluir`: você poderá excluir um documento.

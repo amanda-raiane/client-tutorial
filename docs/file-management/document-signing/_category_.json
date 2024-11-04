@@ -1,8 +1,8 @@
 {
-  "label": "Assinatura de Documentos",
+  "label": "Assinatura de Contratos",
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "Tudo relacionado a assinatura de documentos no G Client."
+    "description": "Tudo relacionado a assinatura de contratos no G Client."
   }
 }
