@@ -17,7 +17,7 @@ Clique na aba **Cadastros**, localizado ao final do menu lateral. Escolha o opç
 
 ### 3. Escolha o processo
 
-Clique no processo que você escolheu para criação dos checklist automatiocs.
+Clique no processo que você escolheu para criação dos checklist automaticos.
 
 E dentro dele terá as etapas, basta clicar no botão `➕` na etapa que deseja efetuar a criação.
 
