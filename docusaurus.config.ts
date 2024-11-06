@@ -48,7 +48,7 @@ const config: Config = {
       title: "Home",
       logo: {
         alt: "G Client logo",
-        src: "img/logo.png",
+        src: "img/logo-azul.png",
       },
       items: [
         {
