@@ -7,8 +7,7 @@ import "dotenv/config";
 const config: Config = {
   title: "G Client",
   tagline:
-    "Sistema de gerenciamento de clientes para escritórios de contabilidade.",
-  favicon: "img/favicon.ico",
+    "O G Client é um sistema inovador, desenvolvido para pequenas e médias empresas, com foco em escritórios de contabilidade, que oferece uma gestão eficiente e centralizada de clientes e suas demandas.",
   plugins: [tailwindPlugin],
 
   url: "https://ajuda.gclient.com.br/",
@@ -48,7 +47,7 @@ const config: Config = {
       title: "Home",
       logo: {
         alt: "G Client logo",
-        src: "img/logo.png",
+        src: "img/logo-azul.png",
       },
       items: [
         {
