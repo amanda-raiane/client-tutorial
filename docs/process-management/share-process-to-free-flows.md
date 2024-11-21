@@ -23,13 +23,13 @@ Dentro da **Onboarding**, **Societário** ou **Adoção** exolha o processo que 
 
 ### 4. Compartilhe o Processo
 
-Ao lado do título do processo, terá um icone azul clique nele e escolha a opção **Compartilhar com fluxos livres**.
+Ao lado do título do processo, terá um icone azul clique nele e escolha a opção **Compartilhar com fluxos de trabalho**.
 
 ![exemplo descrito acima](./imgs/share-process-to-free-flows/example-03.png)
 
 ### 5. Escolha o quadro
 
-Assim que clicar em **Compartilhar com fluxos livres**,você vai ter que selecionar o quadro que deseja compartilhar a tarefa.
+Assim que clicar em **Compartilhar com fluxo de trabalho**,você vai ter que selecionar o quadro que deseja compartilhar a tarefa.
 
 Assim que selecionado a opção clique em **Compartilhar**, para finalizar a operação.
 
