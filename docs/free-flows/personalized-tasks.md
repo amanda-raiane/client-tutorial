@@ -7,9 +7,9 @@ description: Passo a passo de como criar uma tarefa em um quadros personalizados
 
 ### 1. Acesso
 
-Primeiramente, faça login na sua conta do G Client. E certifique-se de que você tem permissão para que possa usar os Fluxos Livres.
+Primeiramente, faça login na sua conta do G Client. E certifique-se de que você tem permissão para que possa usar os Fluxos de Trabalho.
 
-### 2. Navegue até a Seção de FLUXOS LIVRES
+### 2. Navegue até a Seção de FLUXOS DE TRABALHO
 
 Após a [criação do quadro personalizado](https://ajuda.gclient.com.br/docs/free-flows/personalized-tables.md), clique na aba `Quadros` localizado no menu lateral. Depois selecione o quadro que você deseja criar as tarefas.
 
