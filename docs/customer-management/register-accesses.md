@@ -15,7 +15,7 @@ Primeiramente, faça o login na sua conta do G Client
 
 ### 2. Navege até a Seção Cadastros
 
-Na página principal, cliqe na aba `Cadastros` localizado no menu lateral. Com isso aparecerá algumas opções clique na opção `Acessos`.
+Na página principal, clique na aba `Cadastros` localizado no menu lateral. Com isso aparecerá algumas opções clique na opção `Acessos`.
 
 ![exemplo descrio acima](./img/register-accesses/example-01.png)
 
