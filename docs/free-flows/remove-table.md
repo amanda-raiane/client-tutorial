@@ -7,7 +7,7 @@ description: Passo a passo de como excluir coluna tarefas
 
 Bem vindo ao tutorial do G Client! Neste guia, vamos explicar como excluir colunas nos **FLUXOS DE TRABALHO**.
 
-### Passo a Passo para Excluir colunas
+## Passo a Passo para Excluir colunas
 
 ### 1. Acesse o G Client
 
