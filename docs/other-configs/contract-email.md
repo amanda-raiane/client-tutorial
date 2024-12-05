@@ -20,7 +20,7 @@ Navegue até o final da barra lateral e acesse a página de configurações, sim
 
 ### 3. Navegue até a Sessão "Contratos"
 
-Na página de configurações, na seção **Contatos**, selecione a opção **SMTP e E-mail**.
+Na página de configurações, na seção **Contratos**, selecione a opção **SMTP e E-mail**.
 
 ![Exemplo descrito acima](./img/contract-email/example-01.png)
 
