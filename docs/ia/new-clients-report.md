@@ -4,7 +4,7 @@ title: Relatório de novos clientes
 
 ## Introdução
 
-Agora dentro do G Client nós temos IA 🤩, venha que vou ensinar com utizar a Sara.
+Agora dentro do G Client nós temos IA 🤩, venha que vou ensinar com utilizar a Sara.
 
 ## Passo a Passo de como usar Sara
 
@@ -12,7 +12,7 @@ Agora dentro do G Client nós temos IA 🤩, venha que vou ensinar com utizar a 
 
 Primeiramente, faça o login na sua conta do G Client
 
-### 2. Navega até a Seção Gestão de clientes
+### 2. Navegue até a Seção Gestão de clientes
 
 Na página principal, clique na aba `Relatórios` localizada no menu lateral. Clique em **Novos clientes**.
 
@@ -20,13 +20,13 @@ Na página principal, clique na aba `Relatórios` localizada no menu lateral. Cl
 
 ### 3. Localize
 
-No canto inferior direito, terá um icone fixado da SARA, clique nele para abrir as opções.
+No canto inferior direito, terá um ícone fixado da SARA, clique nele para abrir as opções.
 
 ![exemplo descrio acima](./img/new-clients-report/example-02.png)
 
 ### 4. Opções
 
-Será aberto as opções que você pode pedir para A Sara analizar. No momento temos as seguinte opções:
+Será aberto as opções que você pode pedir para A Sara analisar. No momento temos as seguintes opções:
 
 - Perfil de clientes que mais houve conversão
 - Qual canal de aquisição mais eficiente
@@ -40,7 +40,7 @@ Clique na opção que deseja para poder ser gerado as informações.
 
 ### Análise
 
-Com isso será feito uma analise com as informações contidas no G Client. E você terá as as opções de copiar as informações ou exportar conforme suas necessidades.
+Com isso será feito uma analise com as informações contidas no G Client. E você terá as opções de copiar as informações ou exportar conforme suas necessidades.
 
 ![exemplo descrio acima](./img/new-clients-report/example-04.png)
 
