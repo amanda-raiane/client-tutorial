@@ -44,4 +44,6 @@ Com isso será feito uma analise com as informações contidas no G Client. E vo
 
 ![exemplo descrio acima](./img/custumer-exit-report/example-02.png)
 
+---
+
 ✅ Com esse tutorial, esperamos que ajude você na utilização da SARA nossa IA. Se precisar de mais ajuda, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
