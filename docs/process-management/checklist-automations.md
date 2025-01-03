@@ -11,7 +11,7 @@ Primeiramente, faça login na sua conta do G Client. E certifique-se de que voc�
 
 ### 2. Navegue até a Seção GESTÃO DE PROCESSOS
 
-Clique na aba **Cadastros**, localizado ao final do menu lateral. Escolha o opção **Etapas**.
+Clique na aba **Cadastros**, localizado ao final do menu lateral. Escolha a opção **Etapas**.
 
 ![exemplo descrito acima](./imgs/checklist-automations/example-01.png)
 
