@@ -15,7 +15,7 @@ Primeiramente, faça login na sua conta do G Client.
 
 ### 2. Navegue até a Seção GESTÃO DE CLIENTES
 
-No menu lateral, clique no opção **Comunicados**.
+No menu lateral, clique na opção **Comunicados**.
 
 Na página você poderá visualizar os comunicados já enviados, e também clicando no botão **+ Criar comunicado**, você pode realizar um comunicado.
 
@@ -25,17 +25,17 @@ Na página você poderá visualizar os comunicados já enviados, e também clica
 
 ### 3. Criando Comunicado
 
-Na criação do comunicado você deve preencer os campos de acordo com sua necessidade. Assim que tudo estiver preenchido clique no botão para **Cadastrar**
+Na criação do comunicado você deve preencher os campos de acordo com sua necessidade. Assim que tudo estiver preenchido clique no botão para **Cadastrar**
 
 ![exemplo do que foi descrito acima](./img/communication/example-01.png)
 
 ### 4. Enviando Comunicado
 
-Para enviar o comunicado basta clicar no botão de ação e selecionar o opção **Enviar**.
+Para enviar o comunicado basta clicar no botão de ação e selecionar a opção **Enviar**.
 
 Com isso abrirá um modal para você prencer com as seguintes informações:
 
-- Rementente: Qual endereço de e-mail está enviando o comunicado.
+- Remetente: Qual endereço de e-mail está enviando o comunicado.
 - Identificação: Nome do remetente que será exibido no e-mail enviado.
 
 Por fim para enviar os email, basta clicar em **Enviar**.
