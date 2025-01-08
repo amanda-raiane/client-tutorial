@@ -1,5 +1,5 @@
 ---
-title: Como criar tarefas em um quadro personalizado personalizados
+title: Como criar tarefas em um quadro personalizado
 description: Passo a passo de como criar uma tarefa em um quadros personalizados
 ---
 
