@@ -5,45 +5,58 @@ description: Agora você pode enviar comunicados em massa para seus clientes.
 
 ## Introdução
 
-Agora você pode enviar comunicado em massa para seus clientes.
+Com o **G Client**, você pode enviar comunicados em massa para seus clientes de forma prática e eficiente. Este guia irá ajudá-lo a criar e enviar comunicados com facilidade.
+
+---
 
 ## Passo a passo de como enviar Comunicados
 
 ### 1. Acesse o G Client
 
-Primeiramente, faça login na sua conta do G Client.
-
-### 2. Navegue até a Seção GESTÃO DE CLIENTES
-
-No menu lateral, clique na opção **Comunicados**.
-
-Na página você poderá visualizar os comunicados já enviados, e também clicando no botão **+ Criar comunicado**, você pode realizar um comunicado.
-
-![exemplo do que foi descrito acima](./img/communication/example-03.png)
-
-![exemplo do que foi descrito acima](./img/communication/example-02.png)
-
-### 3. Criando Comunicado
-
-Na criação do comunicado você deve preencher os campos de acordo com sua necessidade. Assim que tudo estiver preenchido clique no botão para **Cadastrar**
-
-![exemplo do que foi descrito acima](./img/communication/example-01.png)
-
-### 4. Enviando Comunicado
-
-Para enviar o comunicado basta clicar no botão de ação e selecionar a opção **Enviar**.
-
-Com isso abrirá um modal para você prencer com as seguintes informações:
-
-- Remetente: Qual endereço de e-mail está enviando o comunicado.
-- Identificação: Nome do remetente que será exibido no e-mail enviado.
-
-Por fim para enviar os email, basta clicar em **Enviar**.
-
-![exemplo do que foi descrito acima](./img/communication/example-04.png)
-
-![exemplo do que foi descrito acima](./img/communication/example-05.png)
+Faça login na sua conta do **G Client**.
 
 ---
 
-✅ Com esse tutorial, esperamos que ajude no envio de comunicados. Se precisar de mais ajuda, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+### 2. Navegue até a seção **Comunicados**
+
+No menu lateral, clique na opção **Comunicados**.
+
+Nesta página, você poderá:
+
+- Visualizar os comunicados já enviados.
+- Criar um novo comunicado clicando no botão **+ Criar comunicado**.
+
+![Exemplo do que foi descrito acima](./img/communication/example-03.png)
+
+---
+
+### 3. Criando um Comunicado
+
+Na criação do comunicado, preencha os campos necessários conforme sua necessidade. Após preencher todos os campos, clique em **Cadastrar** para salvar o comunicado.
+
+![Exemplo do que foi descrito acima](./img/communication/example-01.png)
+
+---
+
+### 4. Enviando o Comunicado
+
+Para enviar um comunicado:
+
+1. Clique no botão de ação correspondente ao comunicado criado.
+2. Selecione a opção **Enviar**.
+
+Um modal será exibido para preenchimento das seguintes informações:
+
+- **Remetente**: O endereço de e-mail usado para enviar o comunicado.
+- **Identificação**: Nome do remetente que será exibido no e-mail enviado.
+
+Após preencher as informações, clique em **Enviar** para finalizar o envio.
+
+![Exemplo do que foi descrito acima](./img/communication/example-04.png)
+
+---
+
+✅ **Pronto!** O comunicado será enviado para os destinatários. Com este tutorial, esperamos facilitar o envio de comunicados.  
+Se precisar de mais ajuda, entre em contato clicando [aqui](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+
+🎉 **Obrigado por usar o G Client!**
