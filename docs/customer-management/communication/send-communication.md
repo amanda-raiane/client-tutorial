@@ -56,7 +56,6 @@ Após preencher as informações, clique em **Enviar** para finalizar o envio.
 
 ---
 
-✅ **Pronto!** O comunicado será enviado para os destinatários. Com este tutorial, esperamos facilitar o envio de comunicados.  
-Se precisar de mais ajuda, entre em contato clicando [aqui](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+✅ **Pronto!** Agora você pode cadastrar e gerenciar os documentos dos seus clientes no **G Client** de forma simples e eficiente. Se precisar de ajuda, entre em contato clicando [aqui](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
 
 🎉 **Obrigado por usar o G Client!**

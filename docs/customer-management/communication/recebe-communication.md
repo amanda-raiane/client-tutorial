@@ -1,15 +1,15 @@
 ---
 title: Como saber quem recebeu os comunicados enviados
-description: Como funciona o envio dos email.
+description: Como funciona o envio dos e-mails.
 ---
 
 ## Introdução
 
-Agora que você já aprendeu a [enviar os comunicados](/docs/customer-management/communication/send-communication) em massa para seus clientes. Agora vamos ver quem recebeou ou não o email.
+Agora que você já aprendeu a [enviar os comunicados](/docs/customer-management/communication/send-communication) em massa para seus clientes, vamos verificar como identificar quem recebeu ou não os e-mails enviados.
 
 ---
 
-## Passo a passo e como funciona os emails
+## Passo a passo e como funciona os e-mails
 
 ### 1. Acesse o G Client
 
@@ -24,41 +24,46 @@ No menu lateral, clique na opção **Comunicados**.
 Nesta página, você poderá:
 
 - Visualizar os comunicados já enviados.
+- Escolher o comunicado ao qual você deseja saber as informações dos e-mails e clicar em **Ver detalhes**.
 
-Encolha o comunicado a qual você deseja saber as informações dos email e clique em **Ver detalhes**
+Você verá três abas disponíveis:
 
-Terão três abas: Visão geral, Estátisticas de Email, Não recebeu.
+- **Visão Geral**
+- **Estatísticas de E-mail**
+- **Não Recebidos**
 
 ![Exemplo do que foi descrito acima](./img/recebe-communication/example-01.png)
 
 ---
 
-### 3. Visão geral
+### 3. Visão Geral
 
-Aqui vamo mostrar todas as informações do Comunicado
+Aqui serão exibidas todas as informações gerais do comunicado enviado.
 
 ![Exemplo do que foi descrito acima](./img/recebe-communication/example-02.png)
 
-### 4. Estátisticas de e-mail
+---
 
-Aqui você poderá vizualizar os e-mail que foram enviador, entreges e quais foram abertos.
+### 4. Estatísticas de E-mail
 
-Teram as os seguintes status:
-- Enviado: indica que o e-mail foi enviado
-- Entrege: indica que o e-mail foi entrege ao destinatário
-- Aberto: indica que o e-mail foi aberto
+Nesta aba, você poderá visualizar os e-mails que foram enviados, entregues e quais foram abertos. Os status disponíveis são:
 
+- **Enviado**: Indica que o e-mail foi enviado com sucesso.
+- **Entregue**: Indica que o e-mail chegou ao destinatário.
+- **Aberto**: Indica que o destinatário abriu o e-mail.
 
 ![Exemplo do que foi descrito acima](./img/recebe-communication/example-03.png)
 
-### 5. Não recebidos
+---
 
-Aqui você pode vizualizar os clientes que não receberam o e-mail
+### 5. Não Recebidos
+
+Nesta aba, você poderá visualizar os clientes que não receberam o e-mail e identificar possíveis problemas.
 
 ![Exemplo do que foi descrito acima](./img/recebe-communication/example-04.png)
 
 ---
 
-✅ **Pronto!** Com este tutorial, esteja fácil a compreenção dos e-mail dos comunicados. Se precisar de mais ajuda, entre em contato clicando [aqui](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+✅ **Pronto!** Agora você pode verificar quem recebeu ou não os comunicados enviados pelo **G Client** de forma simples e eficiente. Se precisar de ajuda, entre em contato clicando [aqui](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
 
 🎉 **Obrigado por usar o G Client!**
