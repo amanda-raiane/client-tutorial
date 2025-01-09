@@ -1,38 +1,48 @@
 ---
 title: Como criar um documento template
-description: Como criar um documento template.
+description: Guia prático para criar um documento template no G Client.
 ---
 
-## Passo a Passo para criar um documento Template
+## Passo a passo para criar um documento template
 
-### 1. Acesse
+### 1. Acesse o G Client
 
-Primeiramente, faça o login na sua conta do G Client.
+Primeiramente, faça login na sua conta do **G Client**.  
+Certifique-se de que você possui as permissões necessárias para gerenciar os **Contratos**.
 
-Verifique se você possui as permissões necessárias para lidar com os **Contratos**.
+---
 
-### 2. Navegue até a Seção de GESTÃO DE ARQUIVOS
+### 2. Navegue até a seção de **Gestão de Arquivos**
 
-Clique na aba `Contratos` localizada no menu lateral. Clique em **Meus templates**.
+No menu lateral, clique na aba **Contratos** e, em seguida, selecione **Meus templates**.
 
-![ilustração de onde encontrar a aba Documentos](./img/create-templates/example-01.png)
+![Ilustração de onde encontrar a aba Meus templates](./img/create-templates/example-01.png)
 
-### 3. Meus Templates
+---
 
-Clique no botão `Novo template`, coloque o nome do template e selecione o documento.
+### 3. Criar um template
 
-- Como formatar o documento:
+1. Clique no botão **Novo template**.
+2. Insira o nome do template.
+3. Selecione o arquivo que será utilizado como template.
 
-Nos locais onde o conteúdo deverá ser preenchido, utilize a seguinte sintaxe: `${nome}`. Veja abaixo um exemplo de como configurar um documento para ser utilizado como template:
+#### Como formatar o documento:
 
-No exemplo abaixo os valores para: NOME COMPLETO, CNPJ e ENDEREÇO, serão preenchidos dinamicamente.
+- Nos locais onde o conteúdo deverá ser preenchido, utilize a seguinte sintaxe: `${nome}`.
+- Exemplo:
 
-![exemplo de template](./img/create-templates/example-02.png)
+No exemplo abaixo, os campos **NOME COMPLETO**, **CNPJ** e **ENDEREÇO** serão preenchidos automaticamente durante o uso do template.
 
-> ⚠️ Só são suportados os arquivos do tipo DOC E DOCX
+![Exemplo de template](./img/create-templates/example-02.png)
 
-Para finalizar clique em **Cadastrar**.
+> ⚠️ **Atenção**: Apenas arquivos nos formatos **DOC** e **DOCX** são aceitos.
 
-![exemplo descrito acima](./img/create-templates/example-03.png)
+4. Para finalizar, clique em **Cadastrar**.
 
-✅ Esse tutorial deve ajudar os usuários a criar templates para seus contratos de forma simples e eficiente. Se precisar de mais alguma coisa, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+![Exemplo descrito acima](./img/create-templates/example-03.png)
+
+---
+
+✅ **Pronto!** Agora você sabe como criar templates para seus contratos no **G Client**. Se precisar de mais ajuda, entre em contato clicando [aqui](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+
+🎉 **Obrigado por usar o G Client!**
