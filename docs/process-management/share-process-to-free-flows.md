@@ -1,38 +1,50 @@
 ---
 title: Compartilhar tarefa do processo de entrada para um quadro personalizado
-description: Como compartilhar tarefas do processo de entrada par um quadro personalizado.
+description: Como compartilhar tarefas do processo de entrada para um quadro personalizado.
 ---
 
-## Passo a passo de como compartilhar tarefa do processo de entrada para um quadro personalizado
+## Passo a Passo de Como Compartilhar Tarefa do Processo de Entrada para um Quadro Personalizado
 
-### 1. Acesse
+### 1. Acesse o G Client
 
-Primeiramente, faça login na sua conta do G Client.
+Primeiramente, faça login na sua conta do **G Client**.
 
-### 2. Navegue até a Seção de GESTÃO DE PROCESSOS
+---
+
+### 2. Navegue até a Seção de **Gestão de Processos**
 
 Clique em uma das opções: **Onboarding**, **Societário** ou **Adoção**.
 
-![exemplo descrito acima](./imgs/share-process-to-free-flows/example-01.png)
+![Exemplo descrito acima](./imgs/share-process-to-free-flows/example-01.png)
 
-### 3. Escolha o processo
+---
 
-Dentro da **Onboarding**, **Societário** ou **Adoção** exolha o processo que voc6e deseja compartilhar e clique nele
+### 3. Escolha o Processo
 
-![exemplo descrito acima](./imgs/share-process-to-free-flows/example-02.png)
+Dentro das opções **Onboarding**, **Societário** ou **Adoção**, escolha o processo que você deseja compartilhar e clique nele.
+
+![Exemplo descrito acima](./imgs/share-process-to-free-flows/example-02.png)
+
+---
 
 ### 4. Compartilhe o Processo
 
-Ao lado do título do processo, terá um icone azul clique nele e escolha a opção **Compartilhar com fluxos de trabalho**.
+Ao lado do título do processo, haverá um ícone azul. Clique nele e escolha a opção **Compartilhar com fluxos de trabalho**.
 
-![exemplo descrito acima](./imgs/share-process-to-free-flows/example-03.png)
+![Exemplo descrito acima](./imgs/share-process-to-free-flows/example-03.png)
 
-### 5. Escolha o quadro
+---
 
-Assim que clicar em **Compartilhar com fluxo de trabalho**,você vai ter que selecionar o quadro que deseja compartilhar a tarefa.
+### 5. Escolha o Quadro
 
-Assim que selecionado a opção clique em **Compartilhar**, para finalizar a operação.
+Assim que clicar em **Compartilhar com fluxos de trabalho**, será necessário selecionar o quadro onde deseja compartilhar a tarefa.
 
-![exemplo descrito acima](./imgs/share-process-to-free-flows/example-04.png)
+Após selecionar a opção, clique em **Compartilhar** para finalizar a operação.
 
-✅ Esse tutorial deve ajudar os usuários a compartilhar procesos dentro dos quadros no Fluxo Livres de forma simples e eficiente. Se precisar de mais alguma coisa, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+![Exemplo descrito acima](./imgs/share-process-to-free-flows/example-04.png)
+
+---
+
+✅ **Pronto!** Agora você sabe como compartilhar processos dentro dos quadros no **Fluxos Livres** de forma simples e eficiente. Se precisar de ajuda, entre em contato clicando [aqui](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+
+🎉 **Obrigado por usar o G Client!**

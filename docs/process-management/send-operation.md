@@ -9,7 +9,7 @@ Com o **G Client**, você pode enviar clientes para operação de forma prática
 
 ---
 
-## Passo a passo de como enviar um cliente para operação
+## Passo a Passo de Como Enviar um Cliente para Operação
 
 ### 1. Acesse o G Client
 
@@ -17,7 +17,7 @@ Faça login na sua conta do **G Client**.
 
 ---
 
-### 2. Navegue até a sessão **Gestão de Processos**
+### 2. Navegue até a Seção **Gestão de Processos**
 
 Clique em uma das opções: **Onboarding**, **Societário** ou **Adoção**. Escolha o processo que contém o card do cliente que você deseja enviar para a operação.
 
@@ -27,9 +27,9 @@ Selecione o card correspondente.
 
 ---
 
-### 3. Compartilhe
+### 3. Compartilhe o Cliente com a Operação
 
-Dentro do card do cliente que você quer enviar para a operação, ao lado da razão social do cliente, haverá um ícone de enviar. Clique nele e escolha a opção **Enviar para operação**.
+Dentro do card do cliente que você deseja enviar para a operação, ao lado da razão social do cliente, haverá um ícone de envio. Clique nele e escolha a opção **Enviar para operação**.
 
 ![Exemplo descrito acima](./imgs/send-operation/example-02.png)
 
