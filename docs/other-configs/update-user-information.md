@@ -9,7 +9,7 @@ Está com o perfil desatualizado ou sem foto? Vamos te ajudar a atualizar o seu 
 
 ---
 
-## Passo a passo de como editar o perfil de usuário
+## Passo a Passo de Como Editar o Perfil de Usuário
 
 ### 1. Acesse o G Client
 
@@ -17,7 +17,7 @@ Primeiramente, faça login na sua conta do **G Client**.
 
 ---
 
-### 2. Acesse seu perfil
+### 2. Acesse Seu Perfil
 
 No canto superior direito, você encontrará o ícone com sua imagem (se houver) e seu nome. Clique na imagem para acessar sua página de perfil.
 
@@ -25,7 +25,7 @@ No canto superior direito, você encontrará o ícone com sua imagem (se houver)
 
 ---
 
-### 3. Dentro do seu perfil
+### 3. Dentro do Seu Perfil
 
 Na sua página de perfil, você poderá:
 
@@ -36,7 +36,7 @@ Na sua página de perfil, você poderá:
 
 ---
 
-### 4. Cadastrar acessos
+### 4. Cadastrar Acessos
 
 Para cadastrar um acesso:
 
@@ -49,7 +49,7 @@ Para cadastrar um acesso:
 
 ---
 
-### 5. Editar informações de usuário
+### 5. Editar Informações de Usuário
 
 Para editar suas informações de perfil:
 
