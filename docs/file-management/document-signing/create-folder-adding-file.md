@@ -1,57 +1,66 @@
 ---
 title: Como criar pastas e adicionar documentos
-description: Como criar pastas e adicionar documentos.
+description: Como criar pastas e adicionar documentos no G Client.
 ---
 
-## Passo a Passo para criar Pastas e adicionar Documentos.
+## Passo a passo para criar pastas e adicionar documentos
 
-### 1. Acesse
+### 1. Acesse o G Client
 
-Primeiramente, faça login na sua conta do G Client.
-
-Verifique se você possui as permissões necessárias para lidar com os **Contratos**.
-
-### 2. Navegue até a Seção de GESTÃO DE ARQUIVOS
-
-Clique na aba `Contratos` localizada no menu lateral. Clique em **Meus contratos**.
-
-![ilustração de onde encontrar a aba Documentos](./img/create-folder-adding-fiel/example-01.png)
-
-### 3. Meus Contratos
-
-Clique no botão `Nova pasta`, coloque o nome que deseja nomear a pasta.
-
-Para finalizar a criação clique em **Cadastrar**.
-
-![exemplo descrito acima](./img/create-folder-adding-fiel/example-02.png)
-
-### 4. Criar Contrato
-
-Clique no botão `Novo Contrato`, coloque o nome do documento e importe o documento.
-
-Para finalizar a criação do contrato clique em **Cadastrar**.
-
-> ⚠️ Só podem ser importados os seguintes formatos: PDF, DOC, DOCX.
-
-![exemplo descrito acima](./img/create-folder-adding-fiel/example-03.png)
-
-### 5. Botões de ação no documento
-
-Com a pasta criada, ao clicar no botão `...` nas pastas você terá as seguintes opcões:
-
-- `Renomear`: você poderá editar o nome da pasta.
-- `Excluir`: você poderá excluir uma pasta.
-
-Ao clicar no botão `...`: nos documentos você terá as seguintes opções:
-
-- `Solicitar assinatura`: você poderá encaminhar o documento para ser assinado. [(ver tutorial)](/docs/file-management/document-signing/signing-solicitation.md)
-- `Renomear`: você poderá editar o nome do documento.
-- `Duplicar`: você fará um cópia do arquivo.
-- `Download`: ao clicar neste botão o documento será salvo em seu dispositivo.
-- `Excluir`: você poderá excluir um documento.
-
-![exemplo descrito acima](./img/create-folder-adding-fiel/example-04.png)
+Primeiramente, faça login na sua conta do **G Client**.  
+Certifique-se de que você possui as permissões necessárias para gerenciar os **Contratos**.
 
 ---
 
-✅ Esse tutorial deve ajudar os usuários a cadastrar pastas e documentos dos seus clientes de forma simples e eficiente. Se precisar de mais alguma coisa, é só [avisar](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+### 2. Navegue até a seção de **Gestão de Arquivos**
+
+No menu lateral, clique na aba **Contratos** e, em seguida, selecione **Meus contratos**.
+
+![Ilustração de onde encontrar a aba Contratos](./img/create-folder-adding-fiel/example-01.png)
+
+---
+
+### 3. Criar uma pasta
+
+1. Clique no botão **Nova pasta**.
+2. Insira o nome desejado para a pasta.
+3. Para finalizar, clique em **Cadastrar**.
+
+![Exemplo descrito acima](./img/create-folder-adding-fiel/example-02.png)
+
+---
+
+### 4. Criar um contrato
+
+1. Clique no botão **Novo Contrato**.
+2. Insira o nome do documento.
+3. Importe o arquivo desejado.
+   > ⚠️ **Atenção**: Apenas os formatos **PDF**, **DOC**, e **DOCX** são aceitos.
+4. Para finalizar, clique em **Cadastrar**.
+
+![Exemplo descrito acima](./img/create-folder-adding-fiel/example-03.png)
+
+---
+
+### 5. Botões de ação nos documentos e pastas
+
+#### Ao clicar no botão `...` em uma pasta:
+
+- **Renomear**: permite editar o nome da pasta.
+- **Excluir**: permite remover a pasta.
+
+#### Ao clicar no botão `...` em um documento:
+
+- **Solicitar assinatura**: encaminha o documento para assinatura. [(Ver tutorial)](/docs/file-management/document-signing/signing-solicitation.md)
+- **Renomear**: permite editar o nome do documento.
+- **Duplicar**: cria uma cópia do arquivo.
+- **Download**: baixa o documento para o dispositivo.
+- **Excluir**: remove o documento.
+
+![Exemplo descrito acima](./img/create-folder-adding-fiel/example-04.png)
+
+---
+
+✅ **Pronto!** Agora você sabe como criar pastas e adicionar documentos no **G Client**. Se precisar de mais ajuda, entre em contato clicando [aqui](https://api.whatsapp.com/send?phone=5544997046569&text=Preciso%20de%20ajuda%20sobre%20um%20tutorial)!
+
+🎉 **Obrigado por usar o G Client!**
