@@ -5,7 +5,7 @@ description: Realize tarefas em massa de forma rápida e prática com ações em
 
 ## Introdução
 
-Com o **G Client**, você pode realizar tarefas em massa de forma rápida e prática utilizando ações em lote, como editar, atualizar ou excluir múltiplos registros de uma só vez.
+Com o **G Client**, você pode realizar tarefas em massa de forma rápida e prática utilizando ações em lote, como editar, atualizar de uma só vez.
 
 ---
 
