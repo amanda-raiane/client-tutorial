@@ -51,7 +51,7 @@ No menu lateral, clique na aba **Contratos** e, em seguida, selecione **Meus con
 
 #### Ao clicar no botão `...` em um documento:
 
-- **Solicitar assinatura**: encaminha o documento para assinatura. [(Ver tutorial)](/docs/file-management/document-signing/signing-solicitation.md)
+- **Solicitar assinatura**: encaminha o documento para assinatura. [(Ver tutorial)](/docs/tutoriais-artigo/file-management/document-signing/signing-solicitation.md)
 - **Renomear**: permite editar o nome do documento.
 - **Duplicar**: cria uma cópia do arquivo.
 - **Download**: baixa o documento para o dispositivo.
