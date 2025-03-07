@@ -1,0 +1,8 @@
+{
+  "label": "Tutoriais em vídeo",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Tutotiais em vídeo do G Client."
+  }
+}

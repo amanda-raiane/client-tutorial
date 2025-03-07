@@ -1,0 +1,8 @@
+{
+  "label": "Ferramentas",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Tudo sobre as ferramentas no G Client."
+  }
+}
