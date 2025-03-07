@@ -5,7 +5,7 @@ description: Como funciona o envio dos e-mails.
 
 ## Introdução
 
-Agora que você já aprendeu a [enviar os comunicados](/docs/customer-management/communication/send-communication) em massa para seus clientes, vamos verificar como identificar quem recebeu ou não os e-mails enviados.
+Agora que você já aprendeu a [enviar os comunicados](/docs/tutoriais-artigo/customer-management/communication/send-communication) em massa para seus clientes, vamos verificar como identificar quem recebeu ou não os e-mails enviados.
 
 ---
 

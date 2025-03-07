@@ -13,7 +13,7 @@ Primeiramente, faça login na sua conta do **G Client** e certifique-se de que p
 
 ### 2. Navegue até a Seção de **FLUXOS DE TRABALHO**
 
-Após a [criação do quadro personalizado](https://ajuda.gclient.com.br/docs/free-flows/personalized-tables.md), clique na aba **Quadros** localizada no menu lateral. Em seguida, selecione o quadro onde deseja criar as tarefas.
+Após a [criação do quadro personalizado](https://ajuda.gclient.com.br/docs/tutoriais-artigo/free-flows/personalized-tables.md), clique na aba **Quadros** localizada no menu lateral. Em seguida, selecione o quadro onde deseja criar as tarefas.
 
 ![Exemplo descrito acima](./img/personalized-tasks/example-01.png)
 
@@ -33,15 +33,15 @@ Ao clicar no botão, um modal será aberto para o cadastro da tarefa.
 
 No modal de cadastro, preencha os seguintes campos:
 
-- **Título da tarefa** (obrigatório);  
-- **Status da tarefa** (obrigatório);  
-- **Cliente relacionado** (opcional);  
-- **Data prevista de vencimento** (opcional);  
-- **Responsáveis** (opcional);  
-- **Tags** (opcional);  
-- **Descrição** (opcional).  
+- **Título da tarefa** (obrigatório);
+- **Status da tarefa** (obrigatório);
+- **Cliente relacionado** (opcional);
+- **Data prevista de vencimento** (opcional);
+- **Responsáveis** (opcional);
+- **Tags** (opcional);
+- **Descrição** (opcional).
 
-Após preencher os campos, clique no botão **Cadastrar** para concluir o processo. 
+Após preencher os campos, clique no botão **Cadastrar** para concluir o processo.
 
 ![Exemplo descrito acima](./img/personalized-tasks/example-03.png)
 

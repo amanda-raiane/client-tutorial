@@ -32,7 +32,7 @@ Depois de preenchido todos os campos, é só clicar em **Cadastrar**, para final
 
 ![exemplo descrito acima](./img/email-template/example-02.png)
 
-Não sabe como criar e enviar uma campanha NPS, clique <a href="/docs/customer-management/nps/" className="text-blue-600 font-bold">aqui</a> para saber como realizar o proceso.
+Não sabe como criar e enviar uma campanha NPS, clique <a href="/docs/tutoriais-artigo/customer-management/nps/" className="text-blue-600 font-bold">aqui</a> para saber como realizar o proceso.
 
 ---
 
