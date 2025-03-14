@@ -1,0 +1,8 @@
+{
+  "label": "Clientes",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Como cadastrar, editar, visualizar e excluir clientes. Aqui você pode entrar tudo relacionado ao seu cliente dentro do G Client."
+  }
+}

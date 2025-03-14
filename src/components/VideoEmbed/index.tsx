@@ -1,4 +1,4 @@
-import React, { DetailedHTMLProps, IframeHTMLAttributes } from "react";
+import React from "react";
 
 interface VideoProps {
   videoUrl: string;
