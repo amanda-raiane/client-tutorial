@@ -79,7 +79,7 @@ const config: Config = {
             },
             {
               label: "Tutorial em vídeo",
-              href: "https://www.youtube.com/watch?v=GAtQ_wZCCH8&list=PLoEki3TCHOP8PfyUFC96R9V46qp3KyuVn",
+              to: "/docs/category/tutoriais-em-vídeo",
             },
             {
               label: "Novidades",
@@ -92,11 +92,11 @@ const config: Config = {
           items: [
             {
               label: "Instagram",
-              href: "https://www.instagram.com/codificadev",
+              href: "https://www.instagram.com/gclient_",
             },
             {
               label: "Youtube",
-              href: "https://www.youtube.com/@codificadev",
+              href: "https://www.youtube.com/@sistemagclient",
             },
             {
               label: "Whatsapp",
