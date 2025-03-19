@@ -50,15 +50,27 @@ Clique no botão **Avançar** para continuar.
 
 ### 4. Definição de Tarefas
 
-Selecione a **Categoria**, **Fase**, e **Status** desejados para a tarefa.
+Aqui, você pode selecionar para onde deseja enviar sua tarefa. Escolha a categoria apropriada: **Adoção**, **Onboarding**, **Societário** ou **Offboarding**.
 
-Clique em **Avançar** para seguir para a próxima etapa.
+Se precisar enviar a tarefa para mais de um destino, basta clicar em **Adicionar Tarefa** e preencher os campos novamente.
+
+Quando estiver pronto, clique em **Avançar** para seguir para a próxima etapa.
 
 ![Exemplo descrito acima](./imgs/automations/example-03.png)
 
 ---
 
-### 5. Revisão e Cadastro
+### 5. Configurações
+
+Agora, selecione o **status** para o qual deseja enviar o cliente e escolha quais dados deseja incluir: **descrição**, **comentários** e **anexos**.
+
+Por fim, clique em **Confirmar** para seguir para a última etapa.
+
+![Exemplo descrito acima](./imgs/automations/example-05.png)
+
+---
+
+### 6. Revisão e Cadastro
 
 Revise as configurações da automação. Caso algo não esteja correto, clique no botão **Editar** para fazer ajustes.
 
