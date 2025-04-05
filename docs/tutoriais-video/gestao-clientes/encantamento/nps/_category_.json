@@ -1,0 +1,8 @@
+{
+  "label": "Nps",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Tudo relacionado a pesquisa NPS dentro do G Client."
+  }
+}
