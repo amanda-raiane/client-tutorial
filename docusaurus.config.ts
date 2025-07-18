@@ -7,7 +7,7 @@ import "dotenv/config";
 const config: Config = {
   title: "G Client",
   tagline:
-    "O G Client é um sistema inovador, desenvolvido para pequenas e médias empresas, com foco em escritórios de contabilidade, que oferece uma gestão eficiente e centralizada de clientes e suas demandas.",
+    "Organize, encante e retenha seus clientes contábeis com uma gestão eficiente e inteligente.",
   plugins: [tailwindPlugin],
 
   url: "https://ajuda.gclient.com.br/",
@@ -44,26 +44,21 @@ const config: Config = {
     themes: ["@docusaurus/theme-search-algolia"],
     image: "img/g-client-social-card.jpg",
     navbar: {
-      title: "Home",
       logo: {
         alt: "G Client logo",
         src: "img/logo-azul.png",
+        href: "/docs/comece-aqui",
       },
       items: [
         {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "Central de tutoriais",
-        },
-        {
-          href: "https://client.primorgroup.com.br",
+          href: "https://app.gclient.com.br/",
           label: "Entrar",
           position: "right",
+          className: "navbar-login-button",
         },
       ],
     },
-    footer: {
+    /*  footer: {
       style: "light",
       links: [
         {
@@ -123,7 +118,7 @@ const config: Config = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Documentação G Client`,
-    },
+    }, */
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
