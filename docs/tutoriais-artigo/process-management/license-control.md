@@ -31,8 +31,8 @@ Você verá todas as licenças cadastradas, separadas em:
 
 As cores ajudam na visualização:
 
-- ✅ **Verde**: Ativas  
-- ⚠️ **Amarelo**: Para vencer  
+- ✅ **Verde**: Ativas
+- ⚠️ **Amarelo**: Para vencer
 - ❌ **Vermelho**: Vencidas
 
 ![Exemplo descrito acima](./imgs/license-control/example-01.png)
@@ -43,12 +43,37 @@ As cores ajudam na visualização:
 
 Na página de **Controle de Licenças**, clique no botão **Nova Licença** no canto superior direito. Será exibido um formulário com os seguintes campos:
 
-- **Obrigatórios**: Cliente, Tipo de licença, Data de vencimento  
+- **Obrigatórios**: Cliente, Tipo de licença, Data de vencimento
 - **Opcionais**: Data de emissão, Custo da renovação, Observações
 
 Após preencher, clique em **Adicionar Licença**.
 
 ![Exemplo descrito acima](./imgs/license-control/example-02.png)
+
+---
+
+## Cadastro de licenças em lote
+
+Para agilizar o processo, você pode importar várias licenças de uma só vez.
+
+1. Na página de **Controle de Licenças**, clique no botão **Importar** no canto superior direito.  
+   Você será redirecionado para a tela de importação.
+
+2. Clique em **Baixar planilha** para fazer o download do modelo de importação.  
+   Preencha o arquivo com as informações corretas de cada licença.
+
+3. Faça o envio da planilha preenchida:
+
+   - Arraste o arquivo para a área indicada **ou**
+   - Clique em **Selecionar Arquivo** para escolher no seu computador.
+
+4. Confira os dados importados na pré-visualização para garantir que estão corretos.
+
+5. Clique no botão **Importar X licenças** para concluir.
+
+> Somente as licenças sem erros serão importadas.
+
+![Exemplo descrito acima](./imgs/license-control/example-04.png)
 
 ---
 
@@ -60,7 +85,7 @@ Você pode renovar uma licença existente sem precisar criar uma nova.
 
 Preencha os campos:
 
-- **Obrigatórios**: Data da renovação, Nova data de vencimento  
+- **Obrigatórios**: Data da renovação, Nova data de vencimento
 - **Opcionais**: Custo da renovação, Observações
 
 Depois, clique em **Confirmar Renovação**.
@@ -78,7 +103,8 @@ Para isso, vá em:
 
 ![Exemplo descrito acima](./imgs/license-control/example-05.png)
 
-Adicione o e-mail que deve receber os avisos.  
+Adicione o e-mail que deve receber os avisos.
+
 > O e-mail não precisa ser de um usuário do G Client, pode ser qualquer endereço.
 
 ---
